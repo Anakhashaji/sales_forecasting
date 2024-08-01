@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sales_forecasting
 Sales forecasting using multiple models - Seasonal Naïve, Holt-Winters, ARIMA, SARIMA and Linear Regression Model
 
@@ -16,3 +17,6 @@ Models covered in the notebook include:
 
 ## Conclusion
 We considered different time-series models as well as a regression model for time series forecasting. From our results we saw that the linear regression model outperformed the other time-series models. Therefore, for this dataset we could use a regression model, rather than a time-series model to forecast sales. One of the main assumptions of regression models is that the patterns in the historical data will be repeated in the future, and since our data was highly seasonal and had a linear trend, it made sense why the linear regression model out-performed the other models.
+=======
+# sales_forecasting
+>>>>>>> 49b659a605cba28fd893fac43c7708f05f1b8773
